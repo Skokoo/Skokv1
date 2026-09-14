@@ -1,0 +1,26 @@
+END USER LICENSE AGREEMENT (EULA)
+
+This End User License Agreement ("Agreement") is a legally binding contract between you (the "Licensee") and the Developer (the "Licensor"). By installing, copying, or using this software (the "Software"), you agree to be bound by the terms of this Agreement. If you do not agree, do not install or use the Software.
+
+1. LICENSE GRANT AND SCOPE
+Subject to the prior payment of the applicable license fee, Licensor grants Licensee a non-exclusive, non-transferable, and revocable license to use the Software. The Software is licensed strictly in its compiled executable binary format and is intended solely for text-based encryption and decryption processing.
+
+2. PROPRIETARY RIGHTS AND CONFIDENTIALITY
+All rights reserved. The Software, including its binary code, internal architecture, algorithms, and encryption kernel logic, contains proprietary trade secrets owned exclusively by the Licensor. This Agreement grants a license to use the Software; it does not transfer ownership or any intellectual property rights to the Licensee.
+
+3. RESTRICTIONS ON REVERSE ENGINEERING
+Licensee shall not, and shall not permit any third party to: decompile, disassemble, reverse engineer, modify, or attempt to derive the source code or cryptographic logic from the Software's binary file. Any attempt to inspect or unpack the binary file constitutes a material breach of this Agreement, resulting in immediate termination of this license and potential legal prosecution.
+
+4. EXCLUSION OF WARRANTY ("AS IS")
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL OPERATE ERROR-FREE, THAT DATA CORRUPTION WILL NOT OCCUR DUE TO USER IMPROPER HANDLING OF COMPUTE OUTPUTS, OR THAT THE ENCRYPTION LOGIC IS ABSOLUTELY INFALLIBLE AGAINST FUTURE COMPUTING TECHNOLOGIES.
+
+5. USER RESPONSIBILITY AND EXCLUSION OF LIABILITY FOR KEY EXPOSURE
+* Key Management: The Software automatically generates a randomized 10-character decryption key derived from its internal kernel. Licensee bears sole responsibility for the generation, safekeeping, and confidentiality of these keys.
+* No Backdoor: Licensor does not store, possess, or maintain any backdoor access to the generated keys or the encrypted data. Lost keys result in permanent, unrecoverable data loss.
+* User Misconduct: Simultaneously sharing or exposing the encrypted text payload along with its corresponding 10-character decryption key constitutes gross negligence. Licensor explicitly disclaims all liability for data breaches or damages resulting from such behavior.
+
+6. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF SENSITIVE DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE. THE TOTAL AGGREGATE LIABILITY OF THE LICENSOR FOR ANY CLAIMS SHALL NOT EXCEED THE ACTUAL AMOUNT PAID BY THE LICENSEE FOR THE SOFTWARE LICENSE.
+
+7. TERMINATION AND GOVERNING LAW
+This Agreement remains effective until terminated. Your rights under this license terminate automatically without notice if you fail to comply with any terms herein. Upon termination, you must destroy all copies of the binary file in your possession.
