@@ -12,3 +12,5 @@
 **C[i]** = ( i == 0 ? (sd >> 24) % 256 : Y[i-1] )
 
 **sd** = ( (salt ^ DJB2(boot_id)) * (Z^M) + Sum[ key[k] * Z^(M-1-k) ] ) % (2^64)
+
+I only provide the encryption equation. If you intend to replicate this architecture, you may first require professional instruction.
