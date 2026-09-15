@@ -40,3 +40,7 @@ To execute the cryptographic suite, the deployment environment requires the corr
 # Support & Contact
 
 If you are uncertain about the appropriate point of contact, please reach out via the public email address listed on my GitHub profile.
+
+# Link
+- [Equation Of The Encryption](docs/EQUATION.md)
+- [Security](.github/SECURITY.md)
