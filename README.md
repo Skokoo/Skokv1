@@ -5,6 +5,13 @@ The engine **dynamically binds device kernel entropy**, **mutates encryption law
 
 The cryptography achieves **complete text destruction**, resulting in a **high-entropy payload** that functions as an **raw binary stream** rather than conventional ciphertext.
 
+Here is the entropy comparison between Skokv1 and AES256:
+
+| Encryption | Shannon Entropy Score | Randomness Density |
+| :--- | :--- | :--- |
+| **Skokv1** | 7.954082982671785 | 99.42% |
+| **AES256 Standard** | 7.978581590586802 | 99.73% |
+
 # Deployment Guide
 Before proceeding, you **must** read the [license agreement](LICENSE) text first.
 
