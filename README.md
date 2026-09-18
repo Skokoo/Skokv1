@@ -1,4 +1,7 @@
 # Skokv1 ENC
+
+[PROJECT STOPPED FOR A WHILE]
+
 "Skokv1" is a **powerful, localized cryptographic storage container engine** for terminal environments. Skokv1 discards standard static block architectures and implements a **unique multi-layered, non-linear system driven by chaotic state attractors and poly-morphic byte mutations**. 
 
 The engine **dynamically binds device kernel entropy**, **mutates encryption laws per character via modular-inverse multipliers**, **locks adjacent blocks through circular cascading bit-shifts** to achieve *resistance against supercomputer reverse-engineering*.
